@@ -3,15 +3,15 @@ brntsv/brntsv is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ## 👋 About Me:
-Hey, I am a Flutter developer. Working on a pet project now and studying mobile development for 7 months. I set a challenge for myself - every day to solve the problem on the leetcode during the year
+Hey, I am a Flutter developer. Working on a pet project now and studying mobile development for 8 months. I set a challenge for myself - every day to solve the problem on the leetcode during the year
 
 [`telegram`](https://t.me/nbrntsv) [`linkedin`](https://www.linkedin.com/in/brntsv/) [`leetcode`](https://leetcode.com/brntsv/) [`codewars`](https://www.codewars.com/users/brntsv)
 
 ## 💻 Tech Stack:
-Dart, Flutter, Provider, Git
+Dart, Flutter, Provider, BloC, Git
 
 ## 📚 Study now:
-BloC, Freezed, Drift, Firebase
+dio, Freezed, Drift, Firebase
 
 ## 📊 Stats
 [![Codewars Badge](https://www.codewars.com/users/brntsv/badges/large)](https://www.codewars.com/users/brntsv)
