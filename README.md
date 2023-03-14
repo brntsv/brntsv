@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## 👋 About Me:
 Hey, I am a Flutter Developer with 9 months of experience in developing mobile applications. I set a challenge for myself - every day to solve the problem on the leetcode during the year
 
-**[`telegram`](https://t.me/nbrntsv) [`linkedin`](https://www.linkedin.com/in/brntsv/) [`leetcode`](https://leetcode.com/brntsv/) [`codewars`](https://www.codewars.com/users/brntsv)**
+**[`telegram`](https://t.me/nbrntsv) [`linkedin`](https://www.linkedin.com/in/brntsv/) [`leetcode`](https://leetcode.com/brntsv/) [`codewars`](https://www.codewars.com/users/brntsv) [`яндекс.контест`](https://github.com/brntsv/yandex_contest_dart)**
 
 ## 💻 Tech Stack:
 Dart, Flutter, Provider, BloC, http, dio, Git
