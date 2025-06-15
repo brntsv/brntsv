@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 🤠 Links:
 
-**[`telegram`](https://t.me/bntsv) [`leetcode`](https://leetcode.com/brntsv/)
+**[`telegram`](https://t.me/bntsv) [`leetcode`](https://leetcode.com/brntsv/)**
 
 
 
